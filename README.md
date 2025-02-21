@@ -3,7 +3,7 @@
 Segue o passo a passo para abrir corretamente a aplicação Gerenciamento de notas.
 
 PASSO 1
-Foi utilizado o banco de dados local MongoDBcompas basta baixa-lo e criar e conectar seu própio banco de dados
+Foi utilizado o banco de dados local MongoDBcompass basta baixa-lo e criar e conectar seu própio banco de dados
 recomenda-se criar um banco de dados DB com a coleção de notas, porém caso queira mudar o nome basta 
 
 PASSO 2
@@ -31,6 +31,3 @@ utilize a aplicação como desejar
 -POSSÍVEIS ERROS-
 
 em caso de algum possível erro abrir o readme.txt da pasta erros
-
-
-
