@@ -1,11 +1,12 @@
 # App-gerenciamento-de-notas
+
 Segue o passo a passo para abrir corretamente a aplicação Gerenciamento de notas.
 
 PASSO 1
 Foi utilizado o banco de dados local MongoDBcompas basta baixa-lo e criar e conectar seu própio banco de dados
 recomenda-se criar um banco de dados DB com a coleção de notas, porém caso queira mudar o nome basta 
-PASSO 2
 
+PASSO 2
 Definir a porta da aplicação(PORT) o caminho do banco de dados(MONGO_URI) no arquivo .env que pode ser aberto combloco de notas e editado.
 
 PASSO 3
@@ -20,7 +21,6 @@ PASSO 5
 Abrir o arquivo run -server.bat e deixa-lo aberto rodando, 
 
 PASSO 6
-
 Quando run -server.bat terminar de compilar ele ira disponibilizar 2 links 
 copiar qualquer um deles para navegador aberto posteriormente
 
