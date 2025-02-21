@@ -5,6 +5,7 @@ PASSO 1
 Foi utilizado o banco de dados local MongoDBcompas basta baixa-lo e criar e conectar seu própio banco de dados
 recomenda-se criar um banco de dados DB com a coleção de notas, porém caso queira mudar o nome basta 
 PASSO 2
+
 Definir a porta da aplicação(PORT) o caminho do banco de dados(MONGO_URI) no arquivo .env que pode ser aberto combloco de notas e editado.
 
 PASSO 3
